@@ -1,5 +1,5 @@
-- [What I learned from my failed startup](https://medium.com/swlh/what-i-learned-from-my-failed-startup-98e8ecf64ef3)
 
+- [What I learned from my failed startup](https://medium.com/swlh/what-i-learned-from-my-failed-startup-98e8ecf64ef3)
 * [10 powerful strategies for breaking down User Stories in Scrum (with cheatsheet)](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)
 
 - [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2)
