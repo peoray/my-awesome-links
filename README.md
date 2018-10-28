@@ -27,7 +27,7 @@ Links on various subjects and topics I find interesting
 
 - [Node](https://github.com/peoray/my-awesome-links/blob/master/links/node.md)
 
-- [Personal](personal_articles)
+- [Personal](personal_articles.md)
 
 - Personal-Articles
 
