@@ -27,14 +27,18 @@ Links on various subjects and topics I find interesting
 
 - [Node](links/node.md)
 
-- [Personal-Articles](links/personal_articles.md)
+- [Personal Articles](links/personal_articles.md)
 
 - [Programming](links/programning.md)
 
 - [Python](links/python.md)
 
+- [Random](links/random.md)
+
 - [React](links/react.md)
 
 - [React Native](links/rn.md)
+
+- [StartUp and Business](links/startup.md)
 
 - [Vue](links/vue.md)

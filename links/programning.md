@@ -81,4 +81,4 @@
 
 * [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf?source=bookmarks---------20---------------------)
 
-- 
+- [Essential Image Optimization](https://images.guide/)

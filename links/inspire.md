@@ -30,4 +30,4 @@
 
 - [How to Design a Lifestyle That Eliminates Distraction and Enables Hyper-Focus](https://medium.com/the-mission/how-to-design-a-lifestyle-that-eliminates-distraction-and-enables-hyper-focus-c1f350d5b5ba)
 
-* 
+* [Don’t be a donkey](https://sivers.org/donkey)

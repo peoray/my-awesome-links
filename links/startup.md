@@ -26,4 +26,4 @@
 
 * [How to plan your startup’s growth](https://medium.com/value-your-startup/how-to-plan-your-startups-growth-fa3b8b6f2e17)
 
-- 
+- [How I fucked up my startup — life lessons from failing and imploding](https://hackernoon.com/how-i-fucked-up-my-startup-life-lessons-from-failing-and-imploding-f3b3540f8545)

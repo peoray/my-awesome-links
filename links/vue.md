@@ -34,4 +34,14 @@
 
 - [Lazy Loading images with Vue.js directives and IntersectionObserver](https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobserver-d0eb390cad9)
 
-* 
+* [Building a Budget Manager with Vue.js and Node.js (Part I)](https://codeburst.io/building-a-budget-manager-with-vue-js-and-node-js-part-i-f3d7311822a8)
+
+- [Building a movie app interface with Vue.js](https://hackernoon.com/building-a-movie-app-interface-with-vue-js-cdc8aeb5db0b)
+
+* [An Instagram gallery with Vue.js and CSS Grid](https://itnext.io/an-instagram-gallery-with-vue-js-and-css-grid-c0a2d7cc3e0f)
+
+- [Build a Food Ordering App Using Vue and Africa’s Talking](https://medium.com/js-dojo/build-a-food-ordering-app-using-vue-and-africas-talking-bd271cf6ef72)
+
+* [Build a Photo Feed using Vue.js](https://pusher.com/tutorials/photo-feed-vuejs/)
+
+- [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/)
