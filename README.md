@@ -3,31 +3,57 @@ Links on various subjects and topics I find interesting
 
 --- 
 
-Table of Contents
-- Data Science
+### Table of Contents
 
-* JavaScript
+- [Data Science](https://github.com/peoray/my-awesome-links/blob/master/links/biz-startup.md)
+<br>
 
-- React
+- [JavaScript](https://github.com/peoray/my-awesome-links/blob/master/links/js.md)
+<br>
 
-* React Native
+- [React](https://github.com/peoray/my-awesome-links/blob/master/links/react.md)
+<br>
 
-- Node
+- [React Native](https://github.com/peoray/my-awesome-links/blob/master/links/rn.md)
+<br>
 
-* Programming
+- [Node](https://github.com/peoray/my-awesome-links/blob/master/links/node.md)
+<br>
 
-- Pyhton
+- [Programming](https://github.com/peoray/my-awesome-links/blob/master/links/programning.md)
+<br>
 
-* Personal
+- [Python](https://github.com/peoray/my-awesome-links/blob/master/links/python.md)
+<br>
 
-- My-tutorial-Articles
+- [Personal]()
+<br>
 
-* CSS
+- Personal-Articles
+<br>
 
-- HTML
+- [CSS](https://github.com/peoray/my-awesome-links/blob/master/links/css.md)
+<br>
 
-* Job
+- [HTML](https://github.com/peoray/my-awesome-links/blob/master/links/html.md)
+<br>
 
-- GraphQL
+- [Job](https://github.com/peoray/my-awesome-links/blob/master/links/job.md)
+<br>
 
-* Electron
+- [GraphQL](https://github.com/peoray/my-awesome-links/blob/master/links/graphql.md)
+<br>
+
+- [Electron](https://github.com/peoray/my-awesome-links/blob/master/links/electron.md)
+<br>
+
+- [Crypto](https://github.com/peoray/my-awesome-links/blob/master/links/crypto.md)
+<br>
+
+- [Git](https://github.com/peoray/my-awesome-links/blob/master/links/git.md)
+<br>
+
+- [Inspiration and Motivation](https://github.com/peoray/my-awesome-links/blob/master/links/git.md)
+<br>
+
+- [Vue](https://github.com/peoray/my-awesome-links/blob/master/links/vue.md)
