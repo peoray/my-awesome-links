@@ -24,4 +24,4 @@
 
 - [How to deploy a GraphQL API on AWS using the Serverless Framework](https://read.acloud.guru/deploy-a-graphql-service-on-aws-with-the-serverless-framework-7af8fc22a01d)
 
-* 
+* [Creating a GraphQL server with NodeJS](https://medium.com/crowdbotics/creating-a-graphql-server-with-nodejs-ef9814a7e0e6)

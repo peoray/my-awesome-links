@@ -10,7 +10,7 @@
 
 - [100+ FREE Resources to Learn Full Stack Web Development](https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2)
 
-* [How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than ever](https://medium.freecodecamp.org/free-https-c051ca570324)
+* [What is an API? In English, please.](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
 
 - [Awesome Newsletter](https://github.com/vredniy/awesome-newsletters)
 
@@ -24,8 +24,7 @@
 
 * [5 steps to speed up your image heavy website](https://codeburst.io/5-steps-to-speed-up-your-image-heavy-website-65c874a86966)
 
-- [Why Every Software Engineer Should Write Articles
-](https://medium.freecodecamp.org/why-every-software-engineer-should-write-articles-f35bdae72d1b)
+- [Why Every Software Engineer Should Write Articles](https://medium.freecodecamp.org/why-every-software-engineer-should-write-articles-f35bdae72d1b)
 
 * [The top data structures you should know for your next coding interview](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3)
 
@@ -82,3 +81,27 @@
 * [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf?source=bookmarks---------20---------------------)
 
 - [Essential Image Optimization](https://images.guide/)
+
+* [How APIs work — An Analogy For Dummies](https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b)
+
+- [On Learning to Code (for 2019)](https://medium.com/coderbyte/on-learning-to-code-for-2019-aa086284a218)
+
+* [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+* [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
+
+- [Awesome Lists](https://github.com/sindresorhus/awesome)
+
+* [How to Become a Great Front-End Engineer](https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/)
+
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
+- [HEAD](https://github.com/joshbuchea/HEAD)
+
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+
+- [Public APIs](https://github.com/toddmotto/public-apis)

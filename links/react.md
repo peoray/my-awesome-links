@@ -20,6 +20,6 @@
 
 - [Learn the React Context API with a Practical Example You Can Bring to Your Apps](https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c?source=bookmarks---------3---------------------)
 
-* [Simple Image Upload with React](Simple Image Upload with React)
+* [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
-- 
+- [Concepts to become an advanced React developer](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)

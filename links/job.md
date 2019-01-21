@@ -44,4 +44,8 @@
 
 - [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0?source=bookmarks---------3---------------------)
 
-* 
+* [Front end Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
+
+- [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+
+* [Remote-friendly companies](https://github.com/remoteintech/remote-jobs)

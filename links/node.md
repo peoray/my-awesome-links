@@ -1,7 +1,4 @@
-- [Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
-
-* [ Node.js Best Practices
-](https://github.com/i0natan/nodebestpractices)
+* [ Node.js Best Practices](https://github.com/i0natan/nodebestpractices)
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
@@ -37,4 +34,6 @@
 
 - [How to Build a RESTful API with Authentication in 5 minutes — all from your command line](https://medium.freecodecamp.org/build-restful-api-with-authentication-under-5-minutes-using-loopback-by-expressjs-no-programming-31231b8472ca)
 
-* 
+* [How to use EJS Templating in a Node.js Application](https://medium.freecodecamp.org/how-to-use-ejs-templating-in-a-node-js-application-ea9347a96c65)
+
+- [Learn using JWT with Passport authentication](https://medium.com/front-end-hacking/learn-using-jwt-with-passport-authentication-9761539c4314)

@@ -45,3 +45,5 @@
 * [Build a Photo Feed using Vue.js](https://pusher.com/tutorials/photo-feed-vuejs/)
 
 - [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/)
+
+* [Advanced and in-depth learning resources for Vue.js](https://github.com/filrak/vuejs-advanced-learning)

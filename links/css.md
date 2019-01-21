@@ -1,4 +1,4 @@
-- [30 Seconds of CSS](https://github.com/atomiks/30-seconds-of-css)
+- [30 Seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
 
 * [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
 
@@ -6,4 +6,10 @@
 
 * [How to Build a Delightful Loading Screen in 5 Minutes](https://medium.freecodecamp.org/how-to-build-a-delightful-loading-screen-in-5-minutes-847991da509f?source=bookmarks---------82---------------------)
 
-- 
+- [CSS Architecture](https://philipwalton.com/articles/css-architecture/)
+
+* [Side Effects in CSS](https://philipwalton.com/articles/side-effects-in-css/)
+
+- [Flexbugs](https://github.com/philipwalton/flexbugs)
+
+* [Awesome CSS Grid](https://github.com/valentinogagliardi/awesome-css-grid)
