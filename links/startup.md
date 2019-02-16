@@ -27,3 +27,7 @@
 * [How to plan your startup’s growth](https://medium.com/value-your-startup/how-to-plan-your-startups-growth-fa3b8b6f2e17)
 
 - [How I fucked up my startup — life lessons from failing and imploding](https://hackernoon.com/how-i-fucked-up-my-startup-life-lessons-from-failing-and-imploding-f3b3540f8545)
+
+* [Why I’m Taking a Break From Being a Founder/CEO…](https://medium.com/@kcolon23/why-im-taking-a-break-from-being-a-founder-ceo-28165894cb72)
+
+- [How I Bootstrapped My Side Project to $6k/Month While Hating Everything It Stands For](https://blog.usejournal.com/how-i-bootstrapped-a-side-project-to-6k-month-while-secretly-hating-everything-it-stands-for-f7405823de4)

@@ -49,3 +49,5 @@
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 * [Remote-friendly companies](https://github.com/remoteintech/remote-jobs)
+
+- [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c)

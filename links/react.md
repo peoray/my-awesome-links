@@ -23,3 +23,5 @@
 * [How to Learn React — A roadmap from beginner to advanced](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 - [Concepts to become an advanced React developer](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
+
+* [Getting Started with Web Accessibility in React](https://blog.usejournal.com/getting-started-with-web-accessibility-in-react-9e591fdb0d52)

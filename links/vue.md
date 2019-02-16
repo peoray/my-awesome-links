@@ -47,3 +47,7 @@
 - [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/)
 
 * [Advanced and in-depth learning resources for Vue.js](https://github.com/filrak/vuejs-advanced-learning)
+
+- [Deep Dive Into The New Vue Devtools v5.0](https://blog.usejournal.com/new-features-in-vue-devtools-v5-0-and-why-they-are-useful-3ce732fdc7a0)
+
+* [Getting Started with Web Accessibility in Vue](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-vue-17e2c4ea0842)
