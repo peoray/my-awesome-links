@@ -19,7 +19,9 @@ Links on various subjects and topics I find interesting
 
 - [HTML](links/html.md)
 
-- [Inspiration and Motivation](links/git.md)
+<!-- - [Inspiration and Motivation (Programming related)](links/git.md) -->
+
+- [Inspiration and Motivation](links/inspire.md)
 
 - [JavaScript](links/js.md)
 
