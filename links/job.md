@@ -52,3 +52,10 @@
 
 - [How to Land Your First Development Job in 5 Simple Steps](https://medium.com/javascript-scene/how-to-land-your-first-development-job-in-5-simple-steps-4e9fb73314c)
 
+- [Interview Questions You Should Ask](https://dev.to/kaydacode/interview-questions-you-should-ask--3dkc)
+
+- [Top Questions Every Candidate Should Ask on An Interview](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
+
+- [What to ask an interviewer during a tech interview](https://hackernoon.com/what-to-ask-an-interviewer-during-a-tech-interview-865a293e548c)
+
+- [FAQGURU- Interview Questions](https://github.com/FAQGURU/FAQGURU)

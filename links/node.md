@@ -14,15 +14,11 @@
 
 - [Building a Serverless REST API with Node.js and MongoDB](https://hackernoon.com/building-a-serverless-rest-api-with-node-js-and-mongodb-2e0ed0638f47)
 
-* [A forum engine using Nodejs and Vuejs (part 1)](https://medium.com/@meshileya/a-forum-engine-using-nodejs-and-vuejs-10b5939ebf2e)
-
 - [How to deploy a Node.js application to AWS Lambda using Serverless](https://hackernoon.com/how-to-deploy-a-node-js-application-to-aws-lambda-using-serverless-ae7e7ebe0996)
 
-* [Full Stack Shopping Cart With MEVN Stack [Part 1]](https://medium.com/@jaouad_45834/full-stack-shopping-cart-with-mevn-stack-part-1-89dae1f35378)
 
 - [Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633?source=bookmarks---------101---------------------)
 
-* [Basic Chat Web App using Express.js, Vue.js & Socket.io](https://medium.com/@jaouad_45834/basic-chat-web-app-using-express-js-vue-js-socket-io-429588e841f0?source=bookmarks---------57---------------------)
 
 - [Beautiful Node: Building an API endpoint with Express, Mongoose, Validation and Promises](https://codeburst.io/using-mongoose-validation-with-async-await-c3a9255459e1)
 
@@ -41,3 +37,7 @@
 * [Your Node.js authentication tutorial is (probably) wrong](https://hackernoon.com/your-node-js-authentication-tutorial-is-wrong-f1a3bf831a46)
 
 - [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
+
+- [Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/)
+
+- [To Create An Evolvable API, Stop Thinking About URLs](https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)

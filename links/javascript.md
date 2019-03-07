@@ -32,7 +32,6 @@
 
 - [Understanding the Notification API](https://codeburst.io/understanding-the-notification-api-804fb5c1ae9c?source=bookmarks---------85---------------------)
 
-* [How to integrate MailChimp in a JavaScript web app](https://medium.freecodecamp.org/how-to-integrate-mailchimp-in-a-javascript-web-app-2a889fb43f6f?source=bookmarks---------76---------------------)
 
 - [How to escape async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c?source=bookmarks---------59---------------------)
 
@@ -46,17 +45,14 @@
 
 * [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 
-- [Joi: validate input and define databases in JavaScript](https://codeburst.io/joi-validate-input-and-define-databases-in-javascript-84adc6f1474b)
 
 * [Understanding Web Real-Time Communication (WebRTC)](https://medium.com/@anto.christo.20/understanding-web-real-time-communication-webrtc-d4cec5a43f2f)
 
-- [Understanding promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
 
 * [Progressive Web Apps 101: the What, Why and How](https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2?source=bookmarks---------30---------------------)
 
 - [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
 
-* [Three Ways to Reverse a String in JavaScript (Check for other articles)](https://medium.freecodecamp.org/how-to-reverse-a-string-in-javascript-in-3-different-ways-75e4763c68cb)
 
 - [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-motivation)
 
