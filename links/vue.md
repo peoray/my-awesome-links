@@ -22,8 +22,8 @@
 
 * [Vue Patterns](https://github.com/fullstackio/vue-patterns)
 
+* [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
+
 * [Vue Patterns Docs](https://learn-vuejs.github.io/vue-patterns/patterns/#dynamic-component)
 
-- [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
-
-- [Vue.js App Performance Optimization: part 1 — Introduction to performance optimization and lazy loading.](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
+* [Vue.js App Performance Optimization: part 1 — Introduction to performance optimization and lazy loading.](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
