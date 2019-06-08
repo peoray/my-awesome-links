@@ -1,5 +1,5 @@
 # my-awesome-links
-Links on various subjects and topics I find interesting
+Links on various subjects and topics I want to bookmark to read later or find interesting
 
 --- 
 
@@ -18,8 +18,6 @@ Links on various subjects and topics I find interesting
 - [GraphQL](links/graphql.md)
 
 - [HTML](links/html.md)
-
-<!-- - [Inspiration and Motivation (Programming related)](links/git.md) -->
 
 - [Inspiration and Motivation](links/inspire.md)
 
