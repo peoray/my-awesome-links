@@ -11,3 +11,5 @@
 * [A Tale of Three Buttons: Exploring React Native Styling](https://codeburst.io/a-tale-of-three-buttons-exploring-react-native-styling-fa931159ef69?source=bookmarks---------17---------------------)
 
 - [Awesome React Native](https://github.com/jondot/awesome-react-native)
+
+- [How I built my first React Native app for my first freelance client](https://medium.com/free-code-camp/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)

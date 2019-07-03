@@ -8,3 +8,6 @@
 
 - [How to build a data science project from scratch](https://medium.freecodecamp.org/how-to-build-a-data-science-project-from-scratch-dc4f096a62a1)
 
+- [If you’re a developer transitioning into data science, here are your best resources](https://medium.com/free-code-camp/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
+
+- [How to Land Your First Consulting Client as a Data Scientist or Data Engineer](https://medium.com/better-programming/how-to-get-your-first-consulting-client-as-a-data-scientist-or-engineer-2878c1becea8)

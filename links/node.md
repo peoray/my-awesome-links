@@ -41,3 +41,17 @@
 - [Get Started With Node: An Introduction To APIs, HTTP And ES6+ JavaScript](https://www.smashingmagazine.com/2019/02/node-api-http-es6-javascript/)
 
 - [To Create An Evolvable API, Stop Thinking About URLs](https://levelup.gitconnected.com/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
+
+- [We’re under attack! 23+ Node.js security best practices](https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d)
+
+- [Introduction to Mongoose for MongoDB](https://medium.com/free-code-camp/introduction-to-mongoose-for-mongodb-d2a7aa593c57)
+
+- [PM2 Process Manager - Zero Downtime — Performance Optimization - Part II](https://medium.com/tech-tajawal/process-manager-pm2-performance-optimization-part-ii-6ca8e431a578)
+
+- [Running PM2 & Node.js in Production Environments](https://hackernoon.com/running-pm2-node-js-in-production-environments-13e703fc108a)
+
+- [Everything you need to know about NoSQL databases](https://dev.to/lmolivera/everything-you-need-to-know-about-nosql-databases-3o3h)
+
+- [Everything you need to know about (Relational) Databases](https://dev.to/lmolivera/everything-you-need-to-know-about-relational-databases-3ejl)
+
+- [How to build a CLI with Node.js](https://www.twilio.com/blog/how-to-build-a-cli-with-node-js)

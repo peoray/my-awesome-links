@@ -113,3 +113,21 @@
 * [Why side projects are so damn important](https://medium.freecodecamp.org/why-side-projects-are-so-damn-important-239ba37209e)
 
 - [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
+- [Learning How to Learn: The Most Important Developer Skill](https://medium.com/free-code-camp/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d)
+
+- [Why you learn the most when you feel like you’re struggling as a developer](https://medium.com/free-code-camp/why-you-learn-the-most-when-you-feel-like-youre-struggling-as-a-developer-7513327c8ee4)
+
+- [Good Engineering Practices while Working Solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
+
+- [Books that Junior Developers should read in 2019](https://medium.com/free-code-camp/9-books-for-junior-developers-in-2019-e41fc7ecc586)
+
+- [Ace your first year as a junior developer with this advice](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+
+- [What I Learned in My First Two Years as a Software Engineer](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+
+- [A journey from Junior Developer to Technical Lead](https://medium.com/comparethemarket/a-journey-from-junior-developer-to-technical-lead-b1af4d2419fb)
+
+- [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
+
+- [Settings Sync with VS Code](https://itnext.io/settings-sync-with-vs-code-c3d4f126989)

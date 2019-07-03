@@ -59,3 +59,7 @@
 - [What to ask an interviewer during a tech interview](https://hackernoon.com/what-to-ask-an-interviewer-during-a-tech-interview-865a293e548c)
 
 - [FAQGURU- Interview Questions](https://github.com/FAQGURU/FAQGURU)
+
+- [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
+
+- [Job for Junior Devs](https://docs.google.com/document/d/1myF89mMlT8dF3AsJCJTW4zbYZbF26sX0-acfyy_-3Oo/edit)

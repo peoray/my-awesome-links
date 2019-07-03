@@ -63,3 +63,11 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+
+- [Building Future Web Apps With JavaScript and Django](https://medium.com/fbdevclagos/building-future-web-apps-with-javascript-and-django-c831883b22cf)
+
+- [Building AR/VR with Javascript and HTML](https://blog.halolabs.io/building-ar-vr-with-javascript-and-html-97af4434bcf6)
+
+- [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+
+- [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)

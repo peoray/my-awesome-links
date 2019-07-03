@@ -31,3 +31,9 @@
 * [Why I’m Taking a Break From Being a Founder/CEO…](https://medium.com/@kcolon23/why-im-taking-a-break-from-being-a-founder-ceo-28165894cb72)
 
 - [How I Bootstrapped My Side Project to $6k/Month While Hating Everything It Stands For](https://blog.usejournal.com/how-i-bootstrapped-a-side-project-to-6k-month-while-secretly-hating-everything-it-stands-for-f7405823de4)
+
+- [Inside the failure of a startup](https://medium.com/swlh/inside-the-failure-of-a-startup-b4a123c962bb)
+
+- [Why Startups Fail and How to Avoid It](https://medium.com/swlh/why-startups-fail-and-how-to-avoid-it-b21496b0ec44)
+
+- [5 Reasons Your Side Project Never Became a Product](https://medium.com/swlh/5-reasons-your-side-project-never-became-a-product-150216bbab5d)
