@@ -1,32 +1,26 @@
-* [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+- [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 
+- [Deploying a Vue App to Heroku in 5 Steps [tutorial]](https://medium.com/netscape/deploying-a-vue-js-2-x-app-to-heroku-in-5-steps-tutorial-a69845ace489?source=bookmarks---------79---------------------)
 
-* [Deploying a Vue App to Heroku in 5 Steps [tutorial]](https://medium.com/netscape/deploying-a-vue-js-2-x-app-to-heroku-in-5-steps-tutorial-a69845ace489?source=bookmarks---------79---------------------)
+- [How to Structure a Vue.js Project](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb?source=bookmarks---------55---------------------)
 
+- [21 Top Vue.js UI Libraries For Your App](https://hackernoon.com/21-top-vue-js-ui-libraries-for-your-app-4556e5a9060e?source=bookmarks---------52---------------------)
 
-* [How to Structure a Vue.js Project](https://itnext.io/how-to-structure-a-vue-js-project-29e4ddc1aeeb?source=bookmarks---------55---------------------)
+- [Lazy Loading images with Vue.js directives and IntersectionObserver](https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobserver-d0eb390cad9)
 
+- [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/)
 
-* [21 Top Vue.js UI Libraries For Your App](https://hackernoon.com/21-top-vue-js-ui-libraries-for-your-app-4556e5a9060e?source=bookmarks---------52---------------------)
+- [Advanced and in-depth learning resources for Vue.js](https://github.com/filrak/vuejs-advanced-learning)
 
-* [Lazy Loading images with Vue.js directives and IntersectionObserver](https://itnext.io/lazy-loading-images-with-vue-js-directives-and-intersectionobserver-d0eb390cad9)
+- [Deep Dive Into The New Vue Devtools v5.0](https://blog.usejournal.com/new-features-in-vue-devtools-v5-0-and-why-they-are-useful-3ce732fdc7a0)
 
+- [Getting Started with Web Accessibility in Vue](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-vue-17e2c4ea0842)
 
-* [Let’s Build a Custom Vue Router](https://css-tricks.com/build-a-custom-vue-router/)
+- [Vue Patterns](https://github.com/fullstackio/vue-patterns)
 
-* [Advanced and in-depth learning resources for Vue.js](https://github.com/filrak/vuejs-advanced-learning)
+- [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
 
-* [Deep Dive Into The New Vue Devtools v5.0](https://blog.usejournal.com/new-features-in-vue-devtools-v5-0-and-why-they-are-useful-3ce732fdc7a0)
-
-* [Getting Started with Web Accessibility in Vue](https://medium.com/@emilymears/getting-started-with-web-accessibility-in-vue-17e2c4ea0842)
-
-* [Vue Patterns](https://github.com/fullstackio/vue-patterns)
-
-* [Anyway, here’s how to make AJAX & API calls with Vue JS](https://itnext.io/anyway-heres-how-to-do-ajax-api-calls-with-vue-js-e71e57d5cf12)
-
-* [Vue Patterns Docs](https://learn-vuejs.github.io/vue-patterns/patterns/#dynamic-component)
-
-* [Vue.js App Performance Optimization: part 1 — Introduction to performance optimization and lazy loading.](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
+- [Vue Patterns Docs](https://learn-vuejs.github.io/vue-patterns/patterns/#dynamic-component)
 
 - [Managing State in Vue.js](https://medium.com/fullstackio/managing-state-in-vue-js-23a0352b1c87)
 
@@ -52,17 +46,28 @@
 
 - [Mastering testing with Vue.js by testing a real application and setting up CI/CD](https://medium.com/clockwork-nl/mastering-testing-with-vue-js-by-testing-a-real-application-and-setting-up-ci-cd-e4e989c12912)
 
-- [A crash course on serverless-side rendering with Vue.js, Nuxt.js and AWS Lambda](https://dev.to/adnanrahic/a-crash-course-on-serverless-side-rendering-with-vuejs-nuxtjs-and-aws-lambda-1nk4?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=) 
+- [A crash course on serverless-side rendering with Vue.js, Nuxt.js and AWS Lambda](https://dev.to/adnanrahic/a-crash-course-on-serverless-side-rendering-with-vuejs-nuxtjs-and-aws-lambda-1nk4?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=)
 
-- [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp?utm_source=additional_box&utm_medium=internal&utm_campaign=hasurahq_boosted&booster_org=hasurahq) 
-
-
-
-
-
-
-
-
-
+- [Vue and GraphQL with Hasura video course](https://dev.to/hasurahq/vue-and-graphql-with-hasura-video-course-3mpp?utm_source=additional_box&utm_medium=internal&utm_campaign=hasurahq_boosted&booster_org=hasurahq)
 
 - [Awesome Nuxt.js ](https://github.com/nuxt-community/awesome-nuxt)
+
+- [Vue.js Performance Archives - Vue.js Tutorials](https://vueschool.io/articles/series/vue-js-performance/)
+
+- [Vue PWA: Building A Progressive Web App w/ Nuxt (demo + tutorial)](https://snipcart.com/blog/vue-pwa?utm_source=Vue.js+Developers&utm_campaign=5a3b6246a1-EMAIL_CAMPAIGN_2019_07_01_05_30_COPY_01&utm_medium=email&utm_term=0_ae2f1465e2-5a3b6246a1-172435209)
+
+- [Vue.js — Forms, components and considerations](https://blog.webf.zone/vue-js-forms-components-and-considerations-d81b3ffe9efb)
+
+- [How use Prop Validation in Vue.js](https://medium.com/swlh/how-use-prop-validation-in-vue-js-4fd5b80851f3)
+
+- [How To Use Google Maps With Vue.js Apps](https://medium.com/better-programming/how-to-use-google-maps-with-vue-js-apps-93268bee7b3f)
+
+- [Cost Effective Serverless Nuxt.js](https://logaretm.com/blog/2019-08-29-cost-effective-serverless-nuxt-js/?utm_source=Vue.js%20Developers&utm_campaign=5a3b6246a1-EMAIL_CAMPAIGN_2019_07_01_05_30_COPY_01&utm_medium=email&utm_term=0_ae2f1465e2-5a3b6246a1-172435209)
+
+- [Managing Wildcard Subdomains with Vue-Router](https://levelup.gitconnected.com/managing-wildcard-subdomains-with-vue-router-9fd74518f2f5)
+
+- [A few handy Vue.js tricks](https://itnext.io/a-few-handy-vue-js-tricks-832703cff426)
+
+- [Vue without View - An Introduction to Renderless Components](https://dev.to/ycmjason/vue-without-view-an-introduction-to-renderless-components-23ld)
+
+* [Protecting Vue Routes with Navigation Guards](https://css-tricks.com/protecting-vue-routes-with-navigation-guards/)
