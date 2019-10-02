@@ -71,3 +71,11 @@
 - [Vue without View - An Introduction to Renderless Components](https://dev.to/ycmjason/vue-without-view-an-introduction-to-renderless-components-23ld)
 
 * [Protecting Vue Routes with Navigation Guards](https://css-tricks.com/protecting-vue-routes-with-navigation-guards/)
+
+- [Composing Components in Vue.js - Damian Dulisz](https://dulisz.com/blog/composing-components-in-vue-js/?utm_source=Vue.js%20Developers&utm_campaign=b30a3172be-EMAIL_CAMPAIGN_2019_07_01_05_30_COPY_01&utm_medium=email&utm_term=0_ae2f1465e2-b30a3172be-172435209)
+
+- [Understanding Stateless Components in Vue](https://devinduct.com/blogpost/47/understanding-stateless-components-in-vue?utm_source=Vue.js+Developers&utm_campaign=b30a3172be-EMAIL_CAMPAIGN_2019_07_01_05_30_COPY_01&utm_medium=email&utm_term=0_ae2f1465e2-b30a3172be-172435209)
+
+- [Using Scoped Slots in Vue.js](https://vuedose.tips/tips/using-scoped-slots-in-vue-js/?utm_source=Vue.js%20Developers&utm_campaign=b30a3172be-EMAIL_CAMPAIGN_2019_07_01_05_30_COPY_01&utm_medium=email&utm_term=0_ae2f1465e2-b30a3172be-172435209)
+
+- [15 Must-Have Vue Directives Maximize Your Productivity](https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity)
