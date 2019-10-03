@@ -1,7 +1,8 @@
 # my-awesome-links
+
 Links on various subjects and topics I want to bookmark to read later or find interesting
 
---- 
+---
 
 ### Table of Contents
 
@@ -26,8 +27,6 @@ Links on various subjects and topics I want to bookmark to read later or find in
 - [Job](https://github.com/peoray/my-awesome-links/blob/master/links/job.md)
 
 - [Node](links/node.md)
-
-- [Personal Articles](links/personal_articles.md)
 
 - [Programming](links/programning.md)
 
