@@ -17,3 +17,5 @@
 * [GitHub - rushter/data-science-blogs: A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
 
 - [GitHub - donnemartin/data-science-ipython-notebooks: Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+* [GitHub - MrMimic/data-scientist-roadmap: Toturial coming with "data science roadmap" graphe.](https://github.com/MrMimic/data-scientist-roadmap)

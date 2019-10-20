@@ -40,4 +40,6 @@ Links on various subjects and topics I want to bookmark to read later or find in
 
 - [StartUp and Business](links/startup.md)
 
+- [Typescript](links/ts.md)
+
 - [Vue](links/vue.md)
