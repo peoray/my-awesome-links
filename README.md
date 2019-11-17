@@ -6,15 +6,21 @@ Links on various subjects and topics I want to bookmark to read later or find in
 
 ### Table of Contents
 
-- [CSS](links/css.md)
-
 - [Crypto](links/crypto.md)
 
-- [Data Science](links/biz-startup.md)
+- [CSS](links/css.md)
+
+- [Data Science](links/data_science.md)
+
+- [Design](links/design.md)
 
 - [Electron](links/electron.md)
 
+- [Flutter](links/flutter.md)
+
 - [Git](links/git.md)
+
+- [Golang](links/golang.md)
 
 - [GraphQL](links/graphql.md)
 
@@ -25,6 +31,8 @@ Links on various subjects and topics I want to bookmark to read later or find in
 - [JavaScript](links/js.md)
 
 - [Job](https://github.com/peoray/my-awesome-links/blob/master/links/job.md)
+
+- [Machine Learning and AI](links/ml.md)
 
 - [Node](links/node.md)
 

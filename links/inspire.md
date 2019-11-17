@@ -1,6 +1,4 @@
-* [Focus On Learning and Creating Rather Than Entertainment and Distraction](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84)
-
-- [How a Solo, Non-Technical Founder learned to code and built a successful Tech Startup](https://hackernoon.com/how-a-solo-non-technical-founder-learned-to-code-and-built-a-successful-tech-startup-657a1a3332e2)
+- [Focus On Learning and Creating Rather Than Entertainment and Distraction](https://medium.com/the-mission/focus-on-learning-and-creating-rather-than-being-entertained-and-distracted-e6573de1bc84)
 
 * [10 Insights That Will Change the Way You Set (and Achieve) Your Goals in 2018](https://blog.doist.com/insights-for-setting-and-achieving-your-goals-f07cffb36441?source=bookmarks---------153----------------&gi=ebc55d6ead6d)
 
@@ -34,6 +32,6 @@
 
 - [Advice From A 19 Year Old Girl & Software Developer](https://medium.com/@lydiahallie/advice-from-a-19-y-o-girl-software-developer-88737bcc6be5)
 
-- [Building A Killer Personal Brand](https://dev.to/lauragift21/building-a-killer-personal-brand-8ig) 
+- [Building A Killer Personal Brand](https://dev.to/lauragift21/building-a-killer-personal-brand-8ig)
 
 - [Prioritizing](https://css-tricks.com/prioritizing/)

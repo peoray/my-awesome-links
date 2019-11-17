@@ -40,32 +40,28 @@
 
 - [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
 
-- [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
+* [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
 
-- [A practical ES6 guide on how to perform HTTP requests using the Fetch API](https://medium.freecodecamp.org/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547)
+* [Understanding Web Real-Time Communication (WebRTC)](https://medium.com/@anto.christo.20/understanding-web-real-time-communication-webrtc-d4cec5a43f2f)
 
-- [Understanding Web Real-Time Communication (WebRTC)](https://medium.com/@anto.christo.20/understanding-web-real-time-communication-webrtc-d4cec5a43f2f)
+* [Progressive Web Apps 101: the What, Why and How](https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2?source=bookmarks---------30---------------------)
 
-- [Progressive Web Apps 101: the What, Why and How](https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2?source=bookmarks---------30---------------------)
+* [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
 
-- [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
+* [What the f\-ck JavaScript?](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-motivation)
 
-- [What the f\-ck JavaScript?](https://github.com/denysdovhan/wtfjs/blob/master/README.md#-motivation)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-- [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+* [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
 
-- [An Overview of JavaScript Testing in 2018](https://medium.com/welldone-software/an-overview-of-javascript-testing-in-2018-f68950900bc3)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
 
-- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+* [Building Future Web Apps With JavaScript and Django](https://medium.com/fbdevclagos/building-future-web-apps-with-javascript-and-django-c831883b22cf)
 
-- [Building Future Web Apps With JavaScript and Django](https://medium.com/fbdevclagos/building-future-web-apps-with-javascript-and-django-c831883b22cf)
+* [Building AR/VR with Javascript and HTML](https://blog.halolabs.io/building-ar-vr-with-javascript-and-html-97af4434bcf6)
 
-- [Building AR/VR with Javascript and HTML](https://blog.halolabs.io/building-ar-vr-with-javascript-and-html-97af4434bcf6)
-
-- [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
-
-- [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
+* [List of (Advanced) JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
 - [Understanding client side routing by implementing a router in Vanilla JS – Will Taylor Blog](https://willtaylor.blog/client-side-routing-in-vanilla-js/?utm_source=Vue.js+Developers&utm_campaign=5a3b6246a1-EMAIL_CAMPAIGN_2019_07_01_05_30_COPY_01&utm_medium=email&utm_term=0_ae2f1465e2-5a3b6246a1-172435209)

@@ -39,3 +39,7 @@
 - [5 Reasons Your Side Project Never Became a Product](https://medium.com/swlh/5-reasons-your-side-project-never-became-a-product-150216bbab5d)
 
 - [The boring technology behind a one-person Internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+
+- [How a Solo, Non-Technical Founder learned to code and built a successful Tech Startup](https://hackernoon.com/how-a-solo-non-technical-founder-learned-to-code-and-built-a-successful-tech-startup-657a1a3332e2)
+
+- [How to get startup ideas](http://www.paulgraham.com/startupideas.html)

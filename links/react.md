@@ -25,3 +25,11 @@
 - [Concepts to become an advanced React developer](https://medium.com/wineofbits/concepts-to-become-an-advanced-react-developer-684d90c086c2)
 
 * [Getting Started with Web Accessibility in React](https://blog.usejournal.com/getting-started-with-web-accessibility-in-react-9e591fdb0d52)
+
+- [Build your own React](https://pomb.us/build-your-own-react/)
+
+- [5 Ways to animate a React app in 2019.](https://medium.com/@dmitrynozhenko/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
+
+- [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+
+- [React Interview Questions & Answers](https://github.com/sudheerj/reactjs-interview-questions)

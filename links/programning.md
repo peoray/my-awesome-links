@@ -34,102 +34,98 @@
 
 * [Learn to code, the hard way](https://medium.freecodecamp.org/learn-to-code-the-hard-way-65dece5b0005)
 
-- [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 
-* [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
+* [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/README.md)
 
-- [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/README.md)
+- [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
-* [Become a full stack web developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than…](https://medium.freecodecamp.org/free-https-c051ca570324?source=bookmarks---------99---------------------)
 
-- [How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than…](https://medium.freecodecamp.org/free-https-c051ca570324?source=bookmarks---------99---------------------)
+- [91 Experts Share the Most Effective SEO Tips to Drive Traffic to Your Website [Expert Roundup]](https://medium.com/swlh/91-experts-share-the-most-effective-seo-tips-to-drive-traffic-to-your-website-expert-roundup-2c378143b16f?source=bookmarks---------93---------------------)
 
-* [91 Experts Share the Most Effective SEO Tips to Drive Traffic to Your Website [Expert Roundup]](https://medium.com/swlh/91-experts-share-the-most-effective-seo-tips-to-drive-traffic-to-your-website-expert-roundup-2c378143b16f?source=bookmarks---------93---------------------)
+* [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22?source=bookmarks---------86---------------------)
 
-- [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22?source=bookmarks---------86---------------------)
+- [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2?source=bookmarks---------83---------------------)
 
-* [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2?source=bookmarks---------83---------------------)
+* [These 40 Chrome extensions will increase your business productivity!](https://blog.formpl.us/these-40-chrome-extensions-will-increase-your-business-productivity-2234adcdf65c?source=bookmarks---------77---------------------)
 
-- [These 40 Chrome extensions will increase your business productivity!](https://blog.formpl.us/these-40-chrome-extensions-will-increase-your-business-productivity-2234adcdf65c?source=bookmarks---------77---------------------)
+- [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c?source=bookmarks---------69---------------------)
 
-* [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c?source=bookmarks---------69---------------------)
+* [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9?source=bookmarks---------68---------------------)
 
-- [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9?source=bookmarks---------68---------------------)
+- [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2?source=bookmarks---------63---------------------)
 
-* [How to think like a programmer — lessons in problem solving](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2?source=bookmarks---------63---------------------)
+* [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1?source=bookmarks---------58---------------------)
 
-- [A tale of Webpack 4 and how to finally configure it in the right way](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1?source=bookmarks---------58---------------------)
+- [Putting comments in code: the good, the bad, and the ugly](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83?source=bookmarks---------50---------------------)
 
-* [Putting comments in code: the good, the bad, and the ugly](https://medium.freecodecamp.org/code-comments-the-good-the-bad-and-the-ugly-be9cc65fbf83?source=bookmarks---------50---------------------)
+- [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b?source=bookmarks---------42---------------------)
 
-- [Progressive Web Apps 101: the What, Why and How](https://medium.freecodecamp.org/progressive-web-apps-101-the-what-why-and-how-4aa5e9065ac2?source=bookmarks---------44---------------------)
+* [How we built our first full-stack JavaScript web app in three weeks](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c?source=bookmarks---------20---------------------)
 
-* [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b?source=bookmarks---------42---------------------)
+- [Deploy a React/Node App Using TravisCI and AWS](https://medium.com/ucladevx/deploy-a-react-node-app-using-travisci-and-aws-b41e3b09110b?source=bookmarks---------9---------------------)
 
-- [How we built our first full-stack JavaScript web app in three weeks](https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c?source=bookmarks---------20---------------------)
+* [The Software Engineering Learning Plan](https://medium.com/@ann_lewis/the-software-engineering-learning-plan-c4d97aedf913)
 
-* [Deploy a React/Node App Using TravisCI and AWS](https://medium.com/ucladevx/deploy-a-react-node-app-using-travisci-and-aws-b41e3b09110b?source=bookmarks---------9---------------------)
+- [The 2018 Game Developer Roadmap](https://codeburst.io/the-2018-game-developer-roadmap-e07e45b3c423)
 
-- [The Software Engineering Learning Plan](https://medium.com/@ann_lewis/the-software-engineering-learning-plan-c4d97aedf913)
+* [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 
-* [The 2018 Game Developer Roadmap](https://codeburst.io/the-2018-game-developer-roadmap-e07e45b3c423)
+- [Understanding Microservices: From Idea To Starting Line](https://medium.freecodecamp.org/microservices-from-idea-to-starting-line-ae5317a6ff02)
 
-- [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
+* [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf?source=bookmarks---------20---------------------)
 
-* [Understanding Microservices: From Idea To Starting Line](https://medium.freecodecamp.org/microservices-from-idea-to-starting-line-ae5317a6ff02)
+- [Essential Image Optimization](https://images.guide/)
 
-- [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf?source=bookmarks---------20---------------------)
+* [How APIs work — An Analogy For Dummies](https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b)
 
-* [Essential Image Optimization](https://images.guide/)
+- [On Learning to Code (for 2019)](https://medium.com/coderbyte/on-learning-to-code-for-2019-aa086284a218)
 
-- [How APIs work — An Analogy For Dummies](https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b)
+* [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
-* [On Learning to Code (for 2019)](https://medium.com/coderbyte/on-learning-to-code-for-2019-aa086284a218)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
-- [The best front-end hacking cheatsheets — all in one place.](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+* [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
 
-* [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Awesome Lists](https://github.com/sindresorhus/awesome)
 
-- [List of Free Learning Resources](https://github.com/EbookFoundation/free-programming-books)
+* [How to Become a Great Front-End Engineer](https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/)
 
-* [Awesome Lists](https://github.com/sindresorhus/awesome)
+- [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
 
-- [How to Become a Great Front-End Engineer](https://philipwalton.com/articles/how-to-become-a-great-front-end-engineer/)
+* [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
-* [Project Guidelines](https://github.com/elsewhencode/project-guidelines)
+- [HEAD](https://github.com/joshbuchea/HEAD)
 
-- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+* [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 
-* [HEAD](https://github.com/joshbuchea/HEAD)
+- [Public APIs](https://github.com/toddmotto/public-apis)
 
-- [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+* [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
-* [Public APIs](https://github.com/toddmotto/public-apis)
+- [Getting Started with Web Accessibility](https://medium.com/@emilymears/getting-started-with-web-accessibility-2c7632c3a8bd)
 
-- [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+* [Why side projects are so damn important](https://medium.freecodecamp.org/why-side-projects-are-so-damn-important-239ba37209e)
 
-* [Getting Started with Web Accessibility](https://medium.com/@emilymears/getting-started-with-web-accessibility-2c7632c3a8bd)
+- [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
-- [Why side projects are so damn important](https://medium.freecodecamp.org/why-side-projects-are-so-damn-important-239ba37209e)
+- [Learning How to Learn: The Most Important Developer Skill](https://medium.com/free-code-camp/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d)
 
-* [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+- [Why you learn the most when you feel like you’re struggling as a developer](https://medium.com/free-code-camp/why-you-learn-the-most-when-you-feel-like-youre-struggling-as-a-developer-7513327c8ee4)
 
-* [Learning How to Learn: The Most Important Developer Skill](https://medium.com/free-code-camp/learning-how-to-learn-the-most-important-developer-skill-7bf62dfaf67d)
+- [Good Engineering Practices while Working Solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
 
-* [Why you learn the most when you feel like you’re struggling as a developer](https://medium.com/free-code-camp/why-you-learn-the-most-when-you-feel-like-youre-struggling-as-a-developer-7513327c8ee4)
+- [Books that Junior Developers should read in 2019](https://medium.com/free-code-camp/9-books-for-junior-developers-in-2019-e41fc7ecc586)
 
-* [Good Engineering Practices while Working Solo](https://blog.bitsrc.io/good-engineering-practices-while-working-solo-ad872e727af4)
+- [Ace your first year as a junior developer with this advice](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
 
-* [Books that Junior Developers should read in 2019](https://medium.com/free-code-camp/9-books-for-junior-developers-in-2019-e41fc7ecc586)
+- [What I Learned in My First Two Years as a Software Engineer](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
 
-* [Ace your first year as a junior developer with this advice](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+- [A journey from Junior Developer to Technical Lead](https://medium.com/comparethemarket/a-journey-from-junior-developer-to-technical-lead-b1af4d2419fb)
 
-* [What I Learned in My First Two Years as a Software Engineer](https://medium.com/free-code-camp/ace-your-first-year-as-a-junior-developer-with-this-advice-bbc68b6fe2d9)
+- [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 
-* [A journey from Junior Developer to Technical Lead](https://medium.com/comparethemarket/a-journey-from-junior-developer-to-technical-lead-b1af4d2419fb)
+- [Settings Sync with VS Code](https://itnext.io/settings-sync-with-vs-code-c3d4f126989)
 
-* [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
-
-* [Settings Sync with VS Code](https://itnext.io/settings-sync-with-vs-code-c3d4f126989)
-
-* [GitHub - yeahhub/Hacking-Security-Ebooks: Top 100 Hacking & Security E-Books (Free Download)](https://github.com/yeahhub/Hacking-Security-Ebooks)
+- [Top 100 Hacking & Security E-Books (Free Download)](https://github.com/yeahhub/Hacking-Security-Ebooks)

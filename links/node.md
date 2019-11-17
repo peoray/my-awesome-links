@@ -56,4 +56,4 @@
 
 - [The Best Node.js Boilerplate to Speed Up Your Project Development](https://medium.com/better-programming/best-node-js-boilerplate-to-speed-up-your-project-development-a9eca7b07f90)
 
-* [GitHub - aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+* [A Developer Roadmap to becoming a Node.js developer in 2019](https://github.com/aliyr/Nodejs-Developer-Roadmap)
