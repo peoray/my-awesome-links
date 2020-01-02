@@ -129,3 +129,9 @@
 - [Settings Sync with VS Code](https://itnext.io/settings-sync-with-vs-code-c3d4f126989)
 
 - [Top 100 Hacking & Security E-Books (Free Download)](https://github.com/yeahhub/Hacking-Security-Ebooks)
+
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
+
+- [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design)
+
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
