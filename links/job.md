@@ -67,3 +67,5 @@
 - [Reverse interview](https://github.com/viraptor/reverse-interview)
 
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+
+- [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
