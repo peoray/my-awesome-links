@@ -81,3 +81,7 @@
 - [10 Good Practices for Building and Maintaining Large Vue.js Projects](https://www.telerik.com/blogs/10-good-practices-building-maintaining-large-vuejs-projects)
 
 - [vuejs-interview-questions](https://github.com/sudheerj/vuejs-interview-questions)
+
+- [Authentication best practices for Vue](https://blog.sqreen.com/authentication-best-practices-vue/?utm_source=external&utm_campaign=Vuejsdeveloppers&utm_medium=social)
+
+- [Vue Watch: Find the best plugins for your Vue projects](https://vuewatch.com/)
