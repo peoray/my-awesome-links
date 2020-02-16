@@ -57,3 +57,7 @@
 - [The Best Node.js Boilerplate to Speed Up Your Project Development](https://medium.com/better-programming/best-node-js-boilerplate-to-speed-up-your-project-development-a9eca7b07f90)
 
 * [A Developer Roadmap to becoming a Node.js developer in 2019](https://github.com/aliyr/Nodejs-Developer-Roadmap)
+
+- [A Clean Approach to Using Express Validator](https://www.oriechinedu.com/posts/a-Clean-approach-to-using-express-validator)
+
+- [Send Email with SendGrid and Mailgen in Node.js ](https://dev.to/nedsoft/send-email-with-sendgrid-and-mailgen-in-node-js-55c4)

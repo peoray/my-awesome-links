@@ -85,3 +85,5 @@
 - [Authentication best practices for Vue](https://blog.sqreen.com/authentication-best-practices-vue/?utm_source=external&utm_campaign=Vuejsdeveloppers&utm_medium=social)
 
 - [Vue Watch: Find the best plugins for your Vue projects](https://vuewatch.com/)
+
+- [Refresh-Proof Vue Forms with Local Storage](https://www.vuemastery.com/blog/Refresh-Proof-Vue-Forms-with-Local-Storage/?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)
