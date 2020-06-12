@@ -60,4 +60,11 @@
 
 - [A Clean Approach to Using Express Validator](https://www.oriechinedu.com/posts/a-Clean-approach-to-using-express-validator)
 
+
 - [Send Email with SendGrid and Mailgen in Node.js ](https://dev.to/nedsoft/send-email-with-sendgrid-and-mailgen-in-node-js-55c4)
+
+
+- [Microsoft REST API Guidelines ](https://github.com/microsoft/api-guidelines)
+
+
+- 
