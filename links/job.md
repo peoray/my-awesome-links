@@ -69,3 +69,7 @@
 - [Back-End Developer Interview Questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
 - [Getting a Gig: A Guide](https://github.com/cassidoo/getting-a-gig)
+
+
+
+- [Become the junior developer that companies want to hire.](https://charlesstover.com/become-the-junior-developer-that-companies-want-to-hire/)
