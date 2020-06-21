@@ -45,3 +45,5 @@
 - [How to get startup ideas](http://www.paulgraham.com/startupideas.html)
 
 - [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
+
+- [Library \| Startup School - The Best Resource for Founders](https://www.startupschool.org/library)
