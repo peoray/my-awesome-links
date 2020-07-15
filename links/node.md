@@ -67,4 +67,4 @@
 - [Microsoft REST API Guidelines ](https://github.com/microsoft/api-guidelines)
 
 
-- 
+- [GitHub - kryz81/awesome-nodejs-learning: A list limited to the best Node.js Learning Resources](https://github.com/kryz81/awesome-nodejs-learning)
