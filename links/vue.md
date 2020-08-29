@@ -87,3 +87,6 @@
 - [Vue Watch: Find the best plugins for your Vue projects](https://vuewatch.com/)
 
 - [Refresh-Proof Vue Forms with Local Storage](https://www.vuemastery.com/blog/Refresh-Proof-Vue-Forms-with-Local-Storage/?utm_campaign=Vue.js%20News&utm_medium=email&utm_source=Revue%20newsletter)
+
+- [Organize and decouple your API calls in Nuxt.js \| blog.Lichter.io](https://blog.lichter.io/posts/nuxt-api-call-organization-and-decoupling/)
+

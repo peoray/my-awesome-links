@@ -135,3 +135,9 @@
 - [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design)
 
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+- [GitHub - anaibol/awesome-serverless: A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
+
+- [GitHub - goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools)
+
+- [Have You Mastered These 9 Vue Techniques? - Pitayan](https://pitayan.com/posts/vue-techniques/)
