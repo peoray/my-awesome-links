@@ -35,3 +35,9 @@
 - [Building A Killer Personal Brand](https://dev.to/lauragift21/building-a-killer-personal-brand-8ig)
 
 - [Prioritizing](https://css-tricks.com/prioritizing/)
+
+- [Read This If You Struggle With Finishing Things You Start \| by Jude King, PhD | Medium](https://medium.com/@Jude.M/read-this-if-you-struggle-with-finishing-things-you-start-a0fdaa83aa6a)
+
+- [6 Things You Can Do To Turn Your Life Around In 12 Months Or Less \| by Thomas Oppong | ILLUMINATION | Aug, 2020 | Medium](https://medium.com/illumination/6-things-you-can-do-to-turn-your-life-around-in-12-months-or-less-85322e7df9d4)
+
+- [Kaizen: Get a Little Better Each Day \| The Art of Manliness](https://www.artofmanliness.com/articles/get-1-better-every-day-the-kaizen-way-to-self-improvement/)
