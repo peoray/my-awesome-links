@@ -141,3 +141,5 @@
 - [GitHub - goabstract/Awesome-Design-Tools: The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools)
 
 - [Have You Mastered These 9 Vue Techniques? - Pitayan](https://pitayan.com/posts/vue-techniques/)
+
+- [GitHub - justinamiller/SoftwareArchitect: Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
