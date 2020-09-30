@@ -1,4 +1,4 @@
-- [GitHub - awesome-css-group/awesome-css: A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css)
+- [A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css)
 
 
 - [30 Seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)

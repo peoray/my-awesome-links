@@ -23,3 +23,9 @@
 - [Go compiler internals: adding a new statement to Go - Part 1](https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/)
 
 * [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
+
+- [The Ultimate Go Study Guide](https://github.com/hoanhan101/ultimate-go)
+
+- [101+ coding interview problems in Go](https://github.com/hoanhan101/algo)
+
+- [Diving into Go by building a CLI application](https://eryb.space/2020/05/27/diving-into-go-by-building-a-cli-application.html)
