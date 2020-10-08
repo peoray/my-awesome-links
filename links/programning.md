@@ -1,6 +1,6 @@
 - [The Developer’s Edge: How To Become A Senior Developer](https://hackernoon.com/developers-edge-how-to-become-a-senior-developer-f1ec1738cf45)
 
-* [Learn to code in 2018, get hired, and have fun along the way](https://hackernoon.com/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
+* [Learn to code in 2018, get hired, and have fun along the way](https://medium.com/zerotomastery/learn-to-code-in-2018-get-hired-and-have-fun-along-the-way-b338247eed6a)
 
 - [One does not simply learn to code](https://medium.freecodecamp.org/one-does-not-simply-learn-to-code-f25bacdc5b62)
 
@@ -33,8 +33,6 @@
 - [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 
 * [Learn to code, the hard way](https://medium.freecodecamp.org/learn-to-code-the-hard-way-65dece5b0005)
-
-- [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 
 * [How to be a Programmer](https://github.com/braydie/HowToBeAProgrammer/blob/master/README.md)
 
@@ -74,8 +72,6 @@
 
 - [Understanding Microservices: From Idea To Starting Line](https://medium.freecodecamp.org/microservices-from-idea-to-starting-line-ae5317a6ff02)
 
-* [Docker Deployments using Terraform](https://medium.com/build-acl/docker-deployments-using-terraform-d2bf36ec7bdf?source=bookmarks---------20---------------------)
-
 - [Essential Image Optimization](https://images.guide/)
 
 * [How APIs work — An Analogy For Dummies](https://medium.com/@tyteen4a03/how-apis-work-an-analogy-for-dummies-ac6ee1d1671b)
@@ -97,8 +93,6 @@
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
 - [HEAD](https://github.com/joshbuchea/HEAD)
-
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 
 - [Public APIs](https://github.com/toddmotto/public-apis)
 
@@ -139,7 +133,5 @@
 - [A curated list of awesome services, solutions and resources for serverless / nobackend applications.](https://github.com/anaibol/awesome-serverless)
 
 - [The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools)
-
-- [Have You Mastered These 9 Vue Techniques? - Pitayan](https://pitayan.com/posts/vue-techniques/)
 
 - [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)

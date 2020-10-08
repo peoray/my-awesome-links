@@ -90,3 +90,6 @@
 
 - [Organize and decouple your API calls in Nuxt.js \| blog.Lichter.io](https://blog.lichter.io/posts/nuxt-api-call-organization-and-decoupling/)
 
+- [Awesome Vuepress](https://github.com/vuepressjs/awesome-vuepress)
+
+- [Have You Mastered These 9 Vue Techniques? - Pitayan](https://pitayan.com/posts/vue-techniques/)
