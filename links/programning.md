@@ -135,3 +135,5 @@
 - [The best design tools and plugins for everything 👉](https://github.com/goabstract/Awesome-Design-Tools)
 
 - [Path to a Software Architect](https://github.com/justinamiller/SoftwareArchitect)
+
+- [All things systems design. Resources, Interview questions, e.t.c](https://github.com/OpesanyaAdebayo/systems-design)

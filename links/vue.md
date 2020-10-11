@@ -93,3 +93,7 @@
 - [Awesome Vuepress](https://github.com/vuepressjs/awesome-vuepress)
 
 - [Have You Mastered These 9 Vue Techniques? - Pitayan](https://pitayan.com/posts/vue-techniques/)
+
+- [Renderless Components in Vue.js](https://adamwathan.me/renderless-components-in-vuejs/)
+
+- [A curated list of awesome things related to Vue 3](https://github.com/blacksonic/awesome-vue-3)
