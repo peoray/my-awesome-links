@@ -1,6 +1,5 @@
 - [A curated contents of amazing CSS :)](https://github.com/awesome-css-group/awesome-css)
 
-
 - [30 Seconds of CSS](https://github.com/30-seconds/30-seconds-of-css)
 
 * [Must-Watch CSS](https://github.com/AllThingsSmitty/must-watch-css)
@@ -18,3 +17,5 @@
 * [Implementing a Mockup: CSS Layout Step by Step](https://daveceddia.com/implement-a-design-with-css/)
 
 * [The Process of Implementing A UI Design From Scratch](https://ishadeed.com/article/building-ui-design-scratch/)
+
+- [CSS Pro Tips](https://github.com/AllThingsSmitty/css-protips)

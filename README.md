@@ -6,6 +6,8 @@ Links on various subjects and topics I want to bookmark to read later or find in
 
 ### Table of Contents
 
+- [Career](links/career.md)
+
 - [Crypto](links/crypto.md)
 
 - [CSS](links/css.md)
@@ -32,7 +34,11 @@ Links on various subjects and topics I want to bookmark to read later or find in
 
 - [JavaScript](links/js.md)
 
-- [Job](https://github.com/peoray/my-awesome-links/blob/master/links/job.md)
+- [Job](links/job)
+
+  - [Resume](links/job/resume.md)
+  - [Interview Questions and prep](links/job/prep.md)
+  - [Advice](links/job/advice.md)
 
 - [Machine Learning and AI](links/ml.md)
 
@@ -42,13 +48,13 @@ Links on various subjects and topics I want to bookmark to read later or find in
 
 - [Python](links/python.md)
 
-- [Random](links/random.md)
-
 - [React](links/react.md)
 
 - [React Native](links/rn.md)
 
 - [StartUp and Business](links/startup.md)
+
+- [Systems Design](links/systems.md)
 
 - [Typescript](links/ts.md)
 
