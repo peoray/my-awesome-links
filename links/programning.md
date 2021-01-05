@@ -50,8 +50,6 @@
 
 * [Public APIs](https://github.com/toddmotto/public-apis)
 
-- [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
-
 * [Getting Started with Web Accessibility](https://medium.com/@emilymears/getting-started-with-web-accessibility-2c7632c3a8bd)
 
 * [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)

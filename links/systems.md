@@ -15,3 +15,9 @@
 - [HighScalability: Building bigger, faster, more reliable websites](http://highscalability.com/)
 
 - [Organizing App Logic with the Clean Architecture [with Examples]](https://khalilstemmler.com/articles/software-design-architecture/organizing-app-logic/)
+
+- [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
+
+- [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
+
+- [Microservice Architecture at Medium](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
