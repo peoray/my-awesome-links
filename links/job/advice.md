@@ -31,3 +31,7 @@
 - [What to ask an interviewer during a tech interview](https://hackernoon.com/what-to-ask-an-interviewer-during-a-tech-interview-865a293e548c)
 
 - [Become the junior developer that companies want to hire.](https://charlesstover.com/become-the-junior-developer-that-companies-want-to-hire/)
+
+- [How I Got Into Google Without a CS Degree](https://betterprogramming.pub/how-i-got-into-google-without-a-cs-degree-f1d3c0a3f10e)
+
+- [The Responses I Got From a Software Developer Candidate That Made Me Hire Him](https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298)
