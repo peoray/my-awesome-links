@@ -17,3 +17,5 @@
 * [How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
 
 - [7 Software Developer Resume Tips to Help You Stand Out](https://monicalent.com/blog/2020/04/21/software-developer-resume-tips/)
+
+- [How To Write A CV For International Jobs](https://jemimaabu.medium.com/how-to-write-a-cv-in-nigeria-d05d8981dbda)
