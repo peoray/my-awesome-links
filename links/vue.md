@@ -77,3 +77,5 @@
 - [How to drastically reduce your bundle size and load time in Vue.js](https://medium.com/shard-labs/how-to-drastically-reduce-your-bundle-size-and-load-time-in-vue-js-54370d513fdf)
 
 - [ Closing Modals with the Back Button in a Vue SPA ](https://jessarcher.com/blog/closing-modals-with-the-back-button-in-a-vue-spa/)
+
+- [4 Ways To Setup Vuex in Nuxt](https://masteringnuxt.com/blog/four-ways-to-setup-vuex-in-nuxt?__s=xrzctq7bmujkx8xk40r7)
